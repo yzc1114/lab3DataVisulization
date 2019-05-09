@@ -27,8 +27,8 @@ This dataset is similar to the one above. To make a difference, this dataset is 
 I want to see the comparision among certain schools in the specific region. And also, in each region, I want to check the situations of different time periods.
 
 ## layout
-![UI](\imgs\1.png)
-![UI](\imgs\2.png)
+![UI](/imgs/1.png)
+![UI](/imgs/2.png)
 Three graphs in total. There is no such associations among the three, so I just put them parallelly.
 Each graph has two or three drop down list, used to interact with users. User can tap the option, to change the data and analyse them.
 
